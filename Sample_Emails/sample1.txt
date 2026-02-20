@@ -1,0 +1,8 @@
+Subject: PayPal Account Locked
+
+Your PayPal account has been locked.
+Login immediately at:
+
+http://paypal-secure-update.info
+
+Confirm your password to unlock.

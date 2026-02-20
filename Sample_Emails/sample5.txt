@@ -1,0 +1,7 @@
+Subject: Invoice Attached
+
+Dear User,
+
+Your invoice is attached.
+Download here:
+http://download-invoice.net

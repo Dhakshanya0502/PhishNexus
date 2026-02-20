@@ -1,0 +1,13 @@
+Subject: URGENT: Your Bank Account Will Be Suspended
+
+Dear Customer,
+
+We detected unusual activity in your account.
+Click the link below immediately to verify your account:
+
+http://secure-bank-verification-login.com
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+Regards,
+Bank Security Team
